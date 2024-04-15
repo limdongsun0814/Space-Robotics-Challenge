@@ -28,11 +28,9 @@
 
 ## 담당
 
-<!-- - 프로젝트 통합 (With Purdue University)
-- 로봇 주행 컨트롤러 (Python, ROS)
-- 이미지 기반 거리 및 좌표 측정 (cv2)
-- 장애물 회피 알고리즘
-- SLAM을 활용한 주행 알고리즘 (RTAB SLAM) -->
+- RTAB SLAM
+- YOLO
+- Docker
 
 ## 구성
 
