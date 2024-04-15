@@ -20,7 +20,6 @@
 <img src="사진%26영상/GAZEBO.png" width="55%"/>
 </div>
 
-
 ## 목적
 
 - 다른 에서 현장자원활용(In-Situ Resource Utilization : ISRU)이 가능한 자동 제어 로봇 개발
@@ -29,11 +28,11 @@
 
 ## 담당
 
-- 프로젝트 통합 (With Purdue University)
+<!-- - 프로젝트 통합 (With Purdue University)
 - 로봇 주행 컨트롤러 (Python, ROS)
 - 이미지 기반 거리 및 좌표 측정 (cv2)
 - 장애물 회피 알고리즘
-- SLAM을 활용한 주행 알고리즘 (RTAB SLAM)
+- SLAM을 활용한 주행 알고리즘 (RTAB SLAM) -->
 
 ## 구성
 
